@@ -3,8 +3,8 @@
 ## Description
 
 It has two bounded-context
-    * For Image represented by module image
-    * For Other kind of file represented by module document
+   * For Image represented by module image
+   * For Other kind of file represented by module document
 
 ### Bounded Context Image 
 
